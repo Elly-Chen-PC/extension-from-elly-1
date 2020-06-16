@@ -1,0 +1,10 @@
+{
+  "name": "extension-from-elly-1",
+  "provider": "providerA",
+  "description": "..",
+  "version": "1.0.0",
+  "icon": "/",
+  "dockerRegistry": "docker.io/ellychen",
+  "helmChartVersion": "1.0.0",
+  "parameters": []
+}
