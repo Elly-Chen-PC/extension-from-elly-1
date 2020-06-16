@@ -4,8 +4,8 @@
 replicaCount: 1
 
 image:
-  registry: doker.io[D[D[D[D[D[Dc[C[C[C[C[D[D[D[D[2~ker.io/ellychen
-  name: extension-from-elly-1
+  registry: dokcer.io/ellychen
+  name: extension-from-elly
   pullPolicy: Always
 
 imagePullSecrets: []
